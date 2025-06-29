@@ -6,3 +6,15 @@
 [![⭐ Star](https://img.shields.io/github/stars/fcardan/game-autopress)](https://github.com/fcardan/game-autopress)
 
 Automates Enter key presses in the [R.u.b.i.n.O.T] game client.
+
+## 🔹Table of Contents
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+
+## Overview
+
+This script automates pressing the Enter key in the game client, focusing the game window before each action. It is useful for automating repetitive in-game interactions.
